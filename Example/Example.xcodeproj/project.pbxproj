@@ -17,8 +17,8 @@
 		DC3F5D872898552A00B03E83 /* ExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3F5D862898552A00B03E83 /* ExampleUITests.swift */; };
 		DC3F5D892898552A00B03E83 /* ExampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3F5D882898552A00B03E83 /* ExampleUITestsLaunchTests.swift */; };
 		DC3F5D962898556900B03E83 /* RAProgressRing.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3F5D952898556900B03E83 /* RAProgressRing.swift */; };
-		DC3F5D9A2898619200B03E83 /* RAProgressRing.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = DC3F5D982898619200B03E83 /* RAProgressRing.mp4 */; };
 		DC3F5D9B2898619200B03E83 /* DemoScreenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = DC3F5D992898619200B03E83 /* DemoScreenshot.png */; };
+		DC3F5D9D2898661800B03E83 /* RAProgressRing.gif in Resources */ = {isa = PBXBuildFile; fileRef = DC3F5D9C2898661800B03E83 /* RAProgressRing.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,8 +53,8 @@
 		DC3F5D862898552A00B03E83 /* ExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleUITests.swift; sourceTree = "<group>"; };
 		DC3F5D882898552A00B03E83 /* ExampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		DC3F5D952898556900B03E83 /* RAProgressRing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RAProgressRing.swift; sourceTree = "<group>"; };
-		DC3F5D982898619200B03E83 /* RAProgressRing.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = RAProgressRing.mp4; sourceTree = "<group>"; };
 		DC3F5D992898619200B03E83 /* DemoScreenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DemoScreenshot.png; sourceTree = "<group>"; };
+		DC3F5D9C2898661800B03E83 /* RAProgressRing.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = RAProgressRing.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,7 +139,7 @@
 			isa = PBXGroup;
 			children = (
 				DC3F5D992898619200B03E83 /* DemoScreenshot.png */,
-				DC3F5D982898619200B03E83 /* RAProgressRing.mp4 */,
+				DC3F5D9C2898661800B03E83 /* RAProgressRing.gif */,
 			);
 			path = Demo;
 			sourceTree = "<group>";
@@ -249,9 +249,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				DC3F5D722898552A00B03E83 /* LaunchScreen.storyboard in Resources */,
-				DC3F5D9A2898619200B03E83 /* RAProgressRing.mp4 in Resources */,
 				DC3F5D9B2898619200B03E83 /* DemoScreenshot.png in Resources */,
 				DC3F5D6F2898552A00B03E83 /* Assets.xcassets in Resources */,
+				DC3F5D9D2898661800B03E83 /* RAProgressRing.gif in Resources */,
 				DC3F5D6D2898552800B03E83 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -37,4 +37,5 @@ progressRing.setProgress(1, animated: true)
 ```
 ### Demo Image & Video
 
-<img src='https://github.com/rhtarora/RAProgressRing/blob/main/Example/Example/Demo/DemoScreenshot.png' width='350'>
+<img src='https://github.com/rhtarora/RAProgressRing/blob/main/Example/Example/Demo/DemoScreenshot.png' width='300'>   <img src='https://github.com/rhtarora/RAProgressRing/blob/main/Example/Example/Demo/RAProgressRing.gif' width='300'>
+

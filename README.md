@@ -35,3 +35,6 @@ progressRing.animationDuration = 3
 progressRing.setProgress(1, animated: true)
 
 ```
+### Demo Image & Video
+
+<img src='https://github.com/rhtarora/RAProgressRing/blob/main/Example/Example/Demo/DemoScreenshot.png' width='350'>

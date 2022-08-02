@@ -1,6 +1,6 @@
 # RAProgressRing
 
-#### RAProgressRing is simplest approach to bring circular progress in your application with minimal code.
+#### RAProgressRing is the simplest approach to bringing circular progress in your application with minimal code.
 
 
 ## Features
